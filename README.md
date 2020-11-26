@@ -34,6 +34,13 @@
     </html>
   
   
+  <?php
+  
+  $name = "amrapali";
+  echo $name;
+  
+  ?>
+  
   
   
   
