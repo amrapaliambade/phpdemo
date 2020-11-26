@@ -33,6 +33,11 @@
       </body>
     </html>
   
+  <?php
+  
+  $a = "amrapali";
+  echo $a;
+  ?>
   
   <?php
   
